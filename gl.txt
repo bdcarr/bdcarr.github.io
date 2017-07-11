@@ -104,7 +104,7 @@ The printouts somehow ended up in my cousin Nathan's possession, and seven years
 And I said "oh yeah, that thing. I should upload it to Vimeo or something."
 
 [^sage4]:
-    "Take Get Lonely. If you look at 'Dear Lonely,' [sic] it begins and ends specifically in North Carolina. [The freeway named in 'Wild Sage'][15501wiki] runs literally two blocks from here." -- [AV Club interview][avclub]
+    "Take Get Lonely. If you look at 'Dear Lonely,' \[sic] it begins and ends specifically in North Carolina. [The freeway named in 'Wild Sage'][15501wiki] runs literally two blocks from here." -- [AV Club interview][avclub]
 
 [2006-08-22]: http://themountaingoats.wikia.com/wiki/2006-08-22_-_Amoeba_Music_-_San_Francisco,_CA
 [2013-06-08]: http://themountaingoats.wikia.com/wiki/2013-06-08_-_Port_City_Music_Hall_-_Portland,_ME
@@ -280,7 +280,7 @@ Maybe sprout wings
     "This is a song about how sometimes you wake up and you say, 'oh, I'm ashamed,' and then you don't really know what it is you're ashamed of. So how would you tell anybody about that? You're not ashamed of any particular thing, just carrying a general sort of shame. It has its own sweetness to it if you live with it long enough." -- [2007-11-02 - Gardner Lounge - Grinnell, IA][2007-11-02]
 
 [^wings2]:
-    "You reach a point in the pursuit of solitude where the booze isn't going to do the job anymore. I know, that's sad news for some people, man. But trust me, there comes a point, it's sort of like a, oh, what the hell, book or movie, I don't know. Some book or movie, oh, 'The Iceman Cometh' by Eugene O'Neill.... And in this book, in this play, if you haven't read it, uh, all these drunks are hanging around at the bar and some guy comes in and tells them all that they're never going to make anything of their lives and they should stop pretending that they are. And then the booze stops working. [audience member: 'More booze!'] No. At that point you have to drink your own helplessness. It's considerably more costly than booze. This song is about drinking your own helplessness." -- [2007-11-03 - The Slowdown - Omaha, NE][2007-11-03]
+    "You reach a point in the pursuit of solitude where the booze isn't going to do the job anymore. I know, that's sad news for some people, man. But trust me, there comes a point, it's sort of like a, oh, what the hell, book or movie, I don't know. Some book or movie, oh, 'The Iceman Cometh' by Eugene O'Neill.... And in this book, in this play, if you haven't read it, uh, all these drunks are hanging around at the bar and some guy comes in and tells them all that they're never going to make anything of their lives and they should stop pretending that they are. And then the booze stops working. \[audience member: 'More booze!'] No. At that point you have to drink your own helplessness. It's considerably more costly than booze. This song is about drinking your own helplessness." -- [2007-11-03 - The Slowdown - Omaha, NE][2007-11-03]
 
 [^wings3]:
     Possibly a reference to the folklore legend of [Bloody Mary][bloodymarywiki], a spirit who is said to appear in a mirror when her name is called three times.
