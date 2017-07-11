@@ -1,5 +1,5 @@
 ![Back of Get Lonely](TODO: insert image link){: style="float: right; width:
-200px; margin: 0px 0px 10px 10px"} ![Cover of Get Lonely](TODO: insert image link){: style="float: right;
+200px; margin: 0px 0px 10px 10px"} ![Cover of Get Lonely](media/gl-cover.jpg){: style="float: right;
 width: 200px; margin: 0px 0px 10px 10px"}
 
 # Get Lonely #
