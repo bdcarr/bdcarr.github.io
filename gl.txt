@@ -39,7 +39,7 @@ Label: 4AD
 8. [Song for Lonely Giants](#giants)
 9. [Woke Up New](#woke)
 10. [If You See Light](#light)
-11. [Cobra Tattoo](#cobra)
+11. [Cobra Tattoo](#tattoo)
 12. [In Corolla](#corolla)
 
 * [Naming Day](#naming)
@@ -98,10 +98,10 @@ Wild sage growing in the weeds
 
 [^sage3]:
     Rian Johnson begun making [a video for Wild Sage][sagevid], but did not complete it: \\
-\\
-"Back in 2006 when we shot the Woke Up New music video for the Mountain Goats, I wanted to also make something for my favorite song on the album, "Wild Sage." So I shot John Darnielle singing the song in front of a black background, turned the footage black and white and high contrast, and printed out every frame of it on 8x10 paper. I then took these stacks of paper to Cape Cod and began to animate them as stills, shooting with my Canon 5D. It took much longer than I thought, and my vacation was over before the video was shot, so I took them back to NYC intending to finish the video there. I never did. So this is all there is. \\
-The printouts somehow ended up in my cousin Nathan's possession, and seven years later he found them stacked in a box and asked me what these thousands of bizarre photos of John Darnielle's face were for.
-And I said "oh yeah, that thing. I should upload it to Vimeo or something."
+    \\
+    "Back in 2006 when we shot the Woke Up New music video for the Mountain Goats, I wanted to also make something for my favorite song on the album, "Wild Sage." So I shot John Darnielle singing the song in front of a black background, turned the footage black and white and high contrast, and printed out every frame of it on 8x10 paper. I then took these stacks of paper to Cape Cod and began to animate them as stills, shooting with my Canon 5D. It took much longer than I thought, and my vacation was over before the video was shot, so I took them back to NYC intending to finish the video there. I never did. So this is all there is. \\
+    The printouts somehow ended up in my cousin Nathan's possession, and seven years later he found them stacked in a box and asked me what these thousands of bizarre photos of John Darnielle's face were for.
+    And I said "oh yeah, that thing. I should upload it to Vimeo or something."
 
 [^sage4]:
     "Take Get Lonely. If you look at 'Dear Lonely,' \[sic] it begins and ends specifically in North Carolina. [The freeway named in 'Wild Sage'][15501wiki] runs literally two blocks from here." -- [AV Club interview][avclub]
@@ -145,10 +145,10 @@ Waving torches
 
 [^avenue3]:
     In 2005, before it was decided to be included in Get Lonely, this song was sent to a dance troupe in San Francisco who used it to choreograph a dance: \\
-\\
+    \\
     "There's this dance company called EmSpace Dance. A couple of years ago their director, Erin Mei-Ling Stuart, wrote to me and asked whether they could choreograph some of my songs. I love dance, a lot; it makes my hair stand up on end sometimes. Still, a year later, when Erin sent me a videotape entitled Songs For You, I was shocked by how strong my reaction to it was. I feel that in EmSpace's remarkable work, the inner lives of my songs become real and whole. Seeing them dance this piece in June was the single best hour I've spent this year." -- [mountain-goats.com][everybodydance] \\
-\\
-John also mentions this when introducing the song [at this show in 2005][2005-11-04].
+    \\
+    John also mentions this when introducing the song [at this show in 2005][2005-11-04].
 
 [^avenue4]:
     Butcher's-broom is a plant [that can be used to make medicine][butchers].
@@ -492,11 +492,11 @@ Waiting all winter
 
 [^light1]:
     The song's title [is a reference][morgtumblr] to the song "Aus Heiterem Himmel" by [Barbara Morgenstern][morgwiki]: \\
-\\
-If you see the light again \\
-Ride right through it \\
-Catch it and shine within \\
-And ride for a fall with it
+    \\
+    If you see the light again \\
+    Ride right through it \\
+    Catch it and shine within \\
+    And ride for a fall with it
 
 [morgtumblr]: http://johndarnielle.tumblr.com/post/119119948521/two-questions-for-you-1-will-we-ever-hear-the
 [morgwiki]: https://en.wikipedia.org/wiki/Barbara_Morgenstern
@@ -516,8 +516,8 @@ Its head flaring out like a parachute
 
 Prisms in the dewdrops in the underbrush \\
 Skate-case sailor's-purses [^tattoo2] floating down in the black needlerush [^tattoo3] \\
-Higher than the stars I will set my throne \\
-God does not need Abraham, God can raise children from stones [^tattoo4]
+Higher than the stars I will set my throne [^tattoo4] \\
+God does not need Abraham, God can raise children from stones [^tattoo5]
 
 Dream at night \\
 Girl with the cobra tattoo \\
@@ -527,20 +527,20 @@ The garbled transmissions come through
 
 [^tattoo1]:
     This line (and perhaps the whole song) appears to be written from the perspective of the serpent in the Garden of Eden: \\
-\\
-Then the Lord God said to the serpent: \\
-Because you have done this, \\
-you are cursed more than any livestock \\
-and more than any wild animal. \\
-You will move on your belly \\
-and eat dust all the days of your life. \\
-\\
-I will put hostility between you and the woman, \\
-and between your seed and her seed. \\
-He will strike your head, \\
-and you will strike his heel.\\
-\\
--- [Genesis 3:14-15][genesis31415], Holman Christian Standard Bible, retrieved July 1, 2017.
+    \\
+    Then the Lord God said to the serpent: \\
+    Because you have done this, \\
+    you are cursed more than any livestock \\
+    and more than any wild animal. \\
+    You will move on your belly \\
+    and eat dust all the days of your life. \\
+    \\
+    I will put hostility between you and the woman, \\
+    and between your seed and her seed. \\
+    He will strike your head, \\
+    and you will strike his heel.\\
+    \\
+    -- [Genesis 3:14-15][genesis31415], Holman Christian Standard Bible, retrieved July 1, 2017.
 
 
 [^tattoo2]:
@@ -550,6 +550,24 @@ and you will strike his heel.\\
     [Black needlerush][needlerushwiki] is a grass-like plant that grows in wetland.
 
 [^tattoo4]:
+    Shining morning star, \\
+    how you have fallen from the heavens! \\
+    You destroyer of nations, \\
+    you have been cut down to the ground. \\
+    \\
+    You said to yourself: \\
+    "I will ascend to the heavens; \\
+    I will set up my throne \\
+    above the stars of God. \\
+    I will sit on the mount of the gods' assembly, \\
+    in the remotest parts of the North. \\
+    \\
+    I will ascend above the highest clouds; \\
+    I will make myself like the Most High." \\
+    \\
+    -- [Isaiah 14:12-14][isaiah141214], Holman Christian Standard Bible, retrieved July 12, 2017
+    
+[^tattoo5]:
     A reference to [Matthew 3:9][matthew39]: "And don't presume to say to yourselves, 'We have Abraham as our father.' For I tell you that God is able to raise up children for Abraham from these stones!" -- Holman Christian Standard Bible, retrieved July 1, 2017.
 
 [genesis31415]: https://www.biblegateway.com/passage/?search=Genesis+3%3A14-15&version=HCSB
@@ -557,9 +575,9 @@ and you will strike his heel.\\
 [skatewiki]: https://en.wikipedia.org/wiki/Skate_(fish)
 [needlerushwiki]: https://en.wikipedia.org/wiki/Juncus_gerardii
 [matthew39]: https://www.biblegateway.com/passage/?search=Matthew+3%3A9&version=HCSB
+[isaiah141214]: https://www.biblegateway.com/passage/?search=Isaiah%2014:12-14&version=HCSB
 
-
-## In Corolla [^corolla1] [^corolla2] [^corolla3] ## {#corolla}
+## In Corolla [^corolla1] [^corolla2] ## {#corolla}
 
 The day I turned my back on all you people \\
 I felt an itching in my thumbs \\
@@ -593,18 +611,24 @@ All that water rushing in
 
 
 [^corolla1]:
-    A [corolla][corollawiki] is "a crown made from branches and twigs of trees worn by victors in sacred contests". Pliny the Elder reports that wearing one unjustly was a punishable crime in ancient times.
+    The word 'corolla' could refer to one of several things:
+    
+    * A [corolla][corollacrownwiki] is "a crown made from branches and twigs of trees worn by victors in sacred contests". Pliny the Elder reports that wearing one unjustly was a punishable crime in ancient times.
+    * [Corolla][corollancwiki] is also a town on the coast of North Carolina.
+    * Together, all of the petals of a flower are called a [corolla][corollaflowerwiki].
+    * [Corolla][corollabutterflywiki] is a genus of water-dwelling gastropods known as "sea butterflies"
+    * The [Toyota Corolla][corollacarwiki] is a line of subcompact and compact cars manufactured by Toyota. __\[Kyle: Feel like I'm taking the piss with this one but wanted to include for the sake of completeness - remove at your pleasure. -B]__
 
 [^corolla2]:
-    [Corolla][corollancwiki] is also a town on the coast of North Carolina.
-
-[^corolla3]:
     John has stated explicitly that the narrator commits suicide in this song: \\
-\\
-"And then the last song, 'In Corolla,' is at the beach where the narrator goes to drown himself." -- [AV Club interview][avclub]
+    \\
+    "And then the last song, 'In Corolla,' is at the beach where the narrator goes to drown himself." -- [AV Club interview][avclub]
 
-[corollawiki]: https://en.wikipedia.org/wiki/Corolla_(chaplet)
+[corollacrownwiki]: https://en.wikipedia.org/wiki/Corolla_(chaplet)
 [corollancwiki]: https://en.wikipedia.org/wiki/Corolla,_North_Carolina
+[corollaflowerwiki]: https://en.wikipedia.org/wiki/Petal
+[corollabutterflywiki]: https://en.wikipedia.org/wiki/Corolla_(gastropod)
+[corollacarwiki]: https://en.wikipedia.org/wiki/Toyota_Corolla
 
 
 ## Naming Day [^naming1] ## {#naming}
