@@ -6,7 +6,7 @@ width: 200px; margin: 0px 0px 10px 10px"}
 
 Title: Get Lonely [^glquote1] [^glquote2] \\
 Released: 2006 [^japanesecd]\\
-Label: 4AD
+Label: [4AD][4ad]
 
 *[Jump to the table of contents](#contents){: .jump}*
 
@@ -19,6 +19,7 @@ Label: 4AD
 [^japanesecd]:
     The Japanese CD release came with three bonus tracks: 'Naming Day', 'They Are Stone Swallowers', and 'Keeping House'
 
+[4ad]: http://4ad.com/
 [wikiasunsettree]: http://themountaingoats.wikia.com/wiki/The_Sunset_Tree
 [2006-08-21]: http://themountaingoats.wikia.com/wiki/2006-08-21_-_KEXP_Session_-_Seattle,_WA
 [2006-09-29]: http://themountaingoats.wikia.com/wiki/2006-09-29_-_Club_Europa_-_Brooklyn,_NY
@@ -753,11 +754,12 @@ Same as you
 
 ## Credits ## {#credits}
 
+Thanks to Caliclimber, from whose Flickr we nicked the cover images.
 
 
 ## Further reading ## {#links}
 
-1. [Get Lonely](http://www.themountaingoats.net/music/getlonely.html),
-Nall, retrieved July 8, 2017.
+1. [Get Lonely](http://www.themountaingoats.net/music/getlonely.html), Nall, retrieved July 8, 2017.
+2. [Get Lonely](http://themountaingoats.wikia.com/wiki/Get_Lonely), the Mountain Goats Wikia, retreived July 15, 2017.
 
 ## Footnotes ## {#footnotes}
