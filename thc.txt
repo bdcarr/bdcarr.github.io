@@ -1,0 +1,279 @@
+![Back of The Hound Chronicles](media/thc-back.jpg){: style="float: right; width:
+200px; margin: 0px 0px 10px 10px"} ![Cover of The Hound Chronicles](media/thc-cover.jpg){: style="float: right;
+width: 200px; margin: 0px 0px 10px 10px"}
+
+# The Hound Chronicles #
+
+Title: The Hound Chronicles [^thcquote1] [^thcquote2] \\
+Released: 1992 [^rerelease]\\
+Label: Shrimper
+
+*[Jump to the table of contents](#contents){: .jump}*
+
+[^thcquote1]:
+    (placeholder)
+
+[^thcquote2]:
+    (placeholder)
+
+[^rerelease]:
+    (note about how it was re-released as a 2CD with Garden in 2012)
+
+[linkname]: https://www.example.com
+
+### Liner notes ### {#liner}
+
+(liner notes here)
+
+### Table of contents ### {#contents}
+
+1. [The Garden Song](#garden)
+2. [Going to Wisconsin](#wisconsin)
+3. [Spilling Toward Alpha](#spilling)
+4. [Alpha Negative](#negative)
+5. [Torch Song](#torch)
+6. [&#1513;&#1511;&#1496; (Be Quiet)](#quiet)
+7. [The Cow Song](#cow)
+8. [(untitled)](#untitled)
+9. [Going to Chino](#chino)
+10. [Standard Bitter Love Song #4](#bitter)
+11. [Going to Mexico](#mexico)
+12. [Lab Rat Blues](#rat)
+13. [Going to Kansas](#kansas)
+14. [The Water Song](#water)
+15. [Going to Spain](#spain)
+16. [Keep It on Your Mind](#keep)
+
+* [Credits](#credits)
+* [Further reading](#links)
+* [Footnotes](#footnotes)
+{: .none}
+
+## The Garden Song [^garden1] [^garden2] [^garden3] ## {#garden}
+
+(lyrics)
+
+
+[^garden1]:
+    (placeholder)
+
+[^garden2]:
+    (placeholder)
+
+[^garden3]:
+    (placeholder)
+
+[linkname]: https://www.example.com
+
+
+## Going to Wisconsin [^wisconsin1] [^wisconsin2] [^wisconsin3] ## {#wisconsin}
+
+(lyrics)
+
+
+[^wisconsin1]:
+    (placeholder)
+
+[^wisconsin2]:
+    (placeholder)
+
+[^wisconsin3]:
+    (placeholder)
+
+[linkname]: https://www.example.com
+
+
+## Spilling Toward Alpha [^spilling1] [^spilling2] [^spilling3] ## {#spilling}
+
+(lyrics)
+
+
+[^spilling1]:
+    (placeholder)
+
+[^spilling2]:
+    (placeholder)
+
+[^spilling3]:
+    (placeholder)
+
+[linkname]: https://www.example.com
+
+
+## Alpha Negative [^negative1] ## {#negative}
+
+(lyrics)
+
+
+[^negative1]:
+    (placeholder)
+
+[linkname]: https://www.example.com
+
+
+## Torch Song [^torch1] [^torch2] ## {#torch}
+
+(lyrics)
+
+
+[^torch1]:
+    (placeholder)
+
+[^torch2]:
+    (placeholder)
+
+[linkname]: https://www.example.com
+
+
+## &#1513;&#1511;&#1496; (Be Quiet) [^quiet1] [^quiet2] [^quiet3] ## {#quiet}
+
+(lyrics)
+
+
+[^quiet1]:
+    (placeholder)
+
+[^quiet2]:
+    (placeholder)
+
+[^quiet3]:
+    (placeholder)
+
+[linkname]: https://www.example.com
+
+
+## The Cow Song [^cow1] ## {#cow}
+
+(lyrics)
+
+
+[^cow1]:
+    (placeholder)
+
+[linkname]: https://www.example.com
+
+
+## (untitled) [^untitled1] [^untitled2] ## {#untitled}
+
+(lyrics)
+
+[^untitled1]:
+    (placeholder)
+
+[^untitled2]:
+    (placeholder)
+
+[linkname]: https://www.example.com
+
+
+## Going to Chino [^chino1] [^chino2] ## {#chino}
+
+(lyrics)
+
+
+[^chino1]:
+    (placeholder)
+
+[^chino2]:
+    (placeholder)
+
+[linkname]: https://www.example.com
+
+
+## Standard Bitter Love Song #4 [^bitter1] ## {#bitter}
+
+(lyrics)
+
+[^bitter1]:
+    (placeholder)
+
+[linkname]: https://www.example.com
+
+
+## Going to Mexico [^mexico1] ## {#mexico}
+
+(lyrics)
+
+
+[^mexico1]:
+    (placeholder)
+
+[linkname]: https://www.example.com
+
+## Lab Rat Blues [^rat1] [^rat2] ## {#rat}
+
+(lyrics)
+
+
+[^rat1]:
+    (placeholder)
+
+[^rat2]:
+    (placeholder)
+
+[linkname]: https://www.example.com
+
+
+## Going to Kansas [^kansas1] ## {#kansas}
+
+(lyrics)
+
+
+[^kansas1]:
+    (placeholder)
+
+[linkname]: https://www.example.com
+
+
+## The Water Song [^water1] [^water2] ## {#water}
+
+(lyrics)
+
+
+[^water1]:
+    (placeholder)
+
+[^water2]:
+    (placeholder)
+
+[linkname]: https://www.example.com
+
+
+## Going to Spain [^spain1] [^spain2] ## {#spain}
+
+(lyrics)
+
+
+[^spain1]:
+    (placeholder)
+
+[^spain2]:
+    (placeholder)
+
+[linkname]: https://www.example.com
+
+
+## Keep It on Your Mind [^keep1] [^keep2] ## {#keep}
+
+(lyrics)
+
+
+[^keep1]:
+    (placeholder)
+
+[^keep2]:
+    (placeholder)
+
+[linkname]: https://www.example.com
+
+
+## Credits ## {#credits}
+
+
+
+
+## Further reading ## {#links}
+
+
+
+## Footnotes ## {#footnotes}
