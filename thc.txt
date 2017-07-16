@@ -34,7 +34,7 @@ Label: Shrimper
 5. [Torch Song](#torch)
 6. [&#1513;&#1511;&#1496; (Be Quiet)](#quiet)
 7. [The Cow Song](#cow)
-8. [(untitled)](#untitled)
+8. [--](#untitled)
 9. [Going to Chino](#chino)
 10. [Standard Bitter Love Song #4](#bitter)
 11. [Going to Mexico](#mexico)
@@ -49,13 +49,36 @@ Label: Shrimper
 * [Footnotes](#footnotes)
 {: .none}
 
-## The Garden Song [^garden1] [^garden2] [^garden3] ## {#garden}
+## The Garden Song [^garden2] [^garden3] ## {#garden}
 
-(lyrics)
+*"Where’s Spike when you need him?"* \\
+*"I’m warning you."* \\
+*"You’re warning me?"* \\
+*"Hey, cut it out."* [^garden-976evil]
+
+I see the flowers in your garden are in bloom \\
+I see the flags are flying high \\
+I hear you've gone and rearranged things in your room \\
+I guess you're trying to cut off my air supply \\
+
+I came toward your window, real slowly \\
+I knew deep down I was about to strike oil \\
+I guess by the now the flowers in your garden know me \\
+I felt them trying to get at me through the soil
+
+My bare feet felt the cool, soft dirt \\
+Moving up my ankles, but I don't fear you \\
+The thorns began tearing at my shirt \\
+But I didn't even care when they tore clear through
+
+Your garden can't hurt me \\
+Your flowers don't threaten my life \\
+Your garden can't hurt me anymore \\
+Your flowers don't threaten my life
 
 
-[^garden1]:
-    (placeholder)
+[^garden-976evil]:
+    This sample from the film [976-EVIL][976evilwiki] appears to continue throughout the entire track; only the first part, before the song starts, is audible.
 
 [^garden2]:
     (placeholder)
@@ -63,12 +86,39 @@ Label: Shrimper
 [^garden3]:
     (placeholder)
 
-[linkname]: https://www.example.com
+[976evilwiki]: https://en.wikipedia.org/wiki/976-EVIL
 
 
 ## Going to Wisconsin [^wisconsin1] [^wisconsin2] [^wisconsin3] ## {#wisconsin}
 
-(lyrics)
+There was the sound of a lake boiling over \\
+On that day \\
+Everyone said just to sit still \\
+But the thickening air got in my way
+
+So the hook's been baited now \\
+Yeah the cheese is on the water \\
+Yeah the water's been cleansed of all impurities \\
+But now it really doesn't matter \\
+Let's go, let's go
+
+Wisconsin bound \\
+Wisconsin bound \\
+Wisconsin bound, yeah \\
+Wisconsin bound
+
+The bottom of the boat was a hotplate come alive \\
+But the boat wasn't real, and this is how I feel \\
+You don't know where you are until you arrive \\
+And the frogs sang out from the distant banks \\
+And you say you need me in California \\
+But no thanks 
+
+Wisconsin bound \\
+Wisconsin bound \\
+Wisconsin bound \\
+Yeah, Wisconsin bound \\
+Let's go
 
 
 [^wisconsin1]:
@@ -85,7 +135,20 @@ Label: Shrimper
 
 ## Spilling Toward Alpha [^spilling1] [^spilling2] [^spilling3] ## {#spilling}
 
-(lyrics)
+I hear you moving in the hallway \\
+I hear you sharpening your claws \\
+I hear you polishing your teeth sometimes \\
+But I don't mind
+
+And I hear you out in the garage \\
+I hear you messing with the motor \\
+I hear you tinker with the engine sometimes \\
+But I don't mind
+
+And I hear you moving in the kitchen \\
+I hear you in there late at night \\
+I notice when you leave the gas jets on sometimes \\
+But I don't mind
 
 
 [^spilling1]:
@@ -102,7 +165,28 @@ Label: Shrimper
 
 ## Alpha Negative [^negative1] ## {#negative}
 
-(lyrics)
+The house was pretty and the yard was wide \\
+And I felt strong with you at my side \\
+Your eyes at night had a beautiful glowing in them \\
+And I knew in my heart just what was growing in them
+
+Ah, but you made me drink poison \\
+It felt smooth running down my throat \\
+I love you, and you made me drink poison \\
+It was cool and smooth and sweet \\
+Do you remember?
+
+We had a bed of daisies thriving in the yard \\
+And I quit my job, so I could hold you all the time \\
+I tried to stop the thing metastasizing in us \\
+But in the warm, slow evening \\
+I could feel it rising in us
+
+Ah, and you made me drink poison \\
+It felt so smooth sliding down my throat \\
+I love you so much, and you made me drink poison \\
+It was cool and smooth and sweet and cool \\
+And smooth and sweet and cool and smooth
 
 
 [^negative1]:
@@ -113,7 +197,25 @@ Label: Shrimper
 
 ## Torch Song [^torch1] [^torch2] ## {#torch}
 
-(lyrics)
+The sun was coming up, and our friend was sound asleep \\
+But we saw through the window that the water ran so deep \\
+That you couldn't make out the ocean floor \\
+Then I saw you in the light \\
+I couldn't take it any more
+
+Give me your hand \\
+Give me everything you've got \\
+And the light from window will fall on us burning hot  \\
+Just like a torch
+
+The air was humid; I will not forget \\
+When we stepped outside, I hear your footsteps \\
+Now in my mind, it's a soft sound \\
+Almost imperceptible against the giving ground
+
+Let me kiss your eyelids with my lips \\
+Let me feel the heat coming off your fingertips \\
+Just like a torch
 
 
 [^torch1]:
@@ -127,7 +229,27 @@ Label: Shrimper
 
 ## &#1513;&#1511;&#1496; (Be Quiet) [^quiet1] [^quiet2] [^quiet3] ## {#quiet}
 
-(lyrics)
+You've been away for quite some time \\
+And now the rules are different, \\
+Now everything's mine \\
+Backtrack. Hey say, what's the problem? \\
+Here's the problem: \\
+Everything's mine
+
+I can't be quiet \\
+I can't be quiet any more \\
+I can't be quiet \\
+I can't be quiet any more \\
+Yeah
+
+You've been away for quite some time \\
+And now the rules are different \\
+Now everything's mine \\
+Backtrack. Hey, what's the problem? \\
+Here's the problem: \\
+Everything's mine
+
+I can't be quiet
 
 
 [^quiet1]:
@@ -144,7 +266,35 @@ Label: Shrimper
 
 ## The Cow Song [^cow1] ## {#cow}
 
-(lyrics)
+Bang, pow! Look at me now \\
+Don't let the cows stray off too far \\
+Come down, take a good look around \\
+See how the cows start to shine like light bulbs
+
+I love the cows \\
+I love the cows \\
+I love the cows, yeah \\
+I love the cows
+
+Rain comes, strikes you dumb \\
+Re-seed the meadow so the cows don't starve \\
+Mud puddle's a fine place to cuddle \\
+You're a mosquito or a mosquito's baby
+
+I love the cows \\
+I love the cows \\
+I love the cows \\
+I love the cows
+
+They're smiling in your face \\
+All the time they wanna take your place \\
+Yeah you know who I mean \\
+Talkin' about those cow-machines 
+
+I love the cows \\
+I love the cows \\
+I love the cows \\
+I love the cows
 
 
 [^cow1]:
@@ -153,9 +303,9 @@ Label: Shrimper
 [linkname]: https://www.example.com
 
 
-## (untitled) [^untitled1] [^untitled2] ## {#untitled}
+## -- [^untitled1] [^untitled2] ## {#untitled}
 
-(lyrics)
+*(none)*
 
 [^untitled1]:
     (placeholder)
@@ -168,7 +318,37 @@ Label: Shrimper
 
 ## Going to Chino [^chino1] [^chino2] ## {#chino}
 
-(lyrics)
+I'd like to say hello \\
+To all our friends from Chino \\
+To the people of Chino, hello \\
+I'd like to say hello \\
+To all our friends from Chino \\
+To the people of Chino, hello
+
+I know how hard it is down in Chino \\
+I know how you struggle just to get by \\
+I know they got farm fresh eggs down in Chino \\
+And tract homes reasonably priced
+
+I'd like to say hello \\
+To all our friends from Chino \\
+To the people from Chino, hello \\
+I'd like to say hello \\
+To all our friends from Chino \\
+To the people from Chino, hello
+
+Convenient access to the 60 freeway \\
+Accredited medical care down at Chino Valley Hospital \\
+A unified school system, the likes of which you won't find elsewhere \\
+And friendly people
+
+I would like to say hello \\
+To all our friends from Chino \\
+To the people from Chino, hello \\
+I'd just like to say hello
+To all our friends from Chino \\
+To the people from Chino \\
+Hello
 
 
 [^chino1]:
@@ -182,7 +362,31 @@ Label: Shrimper
 
 ## Standard Bitter Love Song #4 [^bitter1] ## {#bitter}
 
-(lyrics)
+Well I see you've left me a photograph \\
+Of a leopard tearing an antelope in half \\
+What have you done \\
+What have you done \\
+What have you done \\
+With our love \\
+What have you done
+
+Well I see you've resorted to petty theft \\
+You want to take something from me \\
+But there's nothing left \\
+What have you done \\
+What have you done \\
+What have you done \\
+With our love \\
+Where have you put it
+
+Well I hear you calling from way over there \\
+And I can't find it anywhere \\
+What have you done \\
+what have you done \\
+What have you done \\
+With our love \\
+What have you done
+
 
 [^bitter1]:
     (placeholder)
@@ -192,7 +396,29 @@ Label: Shrimper
 
 ## Going to Mexico [^mexico1] ## {#mexico}
 
-(lyrics)
+I saw you at your window \\
+I saw you in the sun \\
+I saw you in the window looking out
+
+I reached my hand in there \\
+Then I touched your hair \\
+And felt myself burn in the morning
+
+And the chickens were screaming \\
+Black dog at my heels \\
+And the bluejays were coughing up in the trees
+
+I'd forgotten my name \\
+I felt kind of ashamed \\
+And felt myself burn in the morning
+
+I saw you at your window \\
+At the beginning of summer \\
+And invisible stars sent their heat down
+
+I imagined your touch \\
+It was almost too much \\
+Burned like a bonfire in the morning
 
 
 [^mexico1]:
@@ -202,7 +428,37 @@ Label: Shrimper
 
 ## Lab Rat Blues [^rat1] [^rat2] ## {#rat}
 
-(lyrics)
+I saw you. I saw your hair \\
+I could spend the rest of my life in there \\
+
+I saw you and I sank into your eyes \\
+I'm not going to apologize
+
+Because you with your own hands \\
+Made the whole world \\
+You can't fool me \\
+I'm onto you now
+
+Because you with your own hands \\
+Created everything \\
+You can't fool me \\
+I'm onto you now
+
+Yeah, I saw you, but you saw me first \\
+Living water to quench my thirst \\
+And you tell me quiet down \\
+But I have no doubt \\
+I know what you're all about
+
+Because you, with your own hands \\
+Made the whole world \\
+You can't fool me \\
+I'm onto you now
+
+Because you, with your own hands \\
+Created everything \\
+You can't fool me any more \\
+I'm onto you now
 
 
 [^rat1]:
@@ -216,7 +472,25 @@ Label: Shrimper
 
 ## Going to Kansas [^kansas1] ## {#kansas}
 
-(lyrics)
+You were all were dressed in green \\
+Clouds bounced against the edges of the sky \\
+You had the prettiest hair I'd ever seen \\
+We saw the world passing by
+
+There was an ocean's droning \\
+Though we were nowhere near the shore \\
+We heard each other giggling and moaning \\
+Then we couldn't hear each other any more yeah
+
+When my head was resting on your breastbone \\
+I could hear your beating heart \\
+24 hours later you had left me completely alone \\
+I heard the whole world come apart
+
+And you were all dressed in green \\
+Rising in the sky was an unfamiliar star \\
+You know, you know what I mean \\
+Yeah I remember who you are
 
 
 [^kansas1]:
@@ -227,7 +501,41 @@ Label: Shrimper
 
 ## The Water Song [^water1] [^water2] ## {#water}
 
-(lyrics)
+Water came springing out the side of the wall \\
+And I guess the same thing will happen to us all \\
+We don't know how to explain what I mean \\
+I mean to say it's kind of hard to explain now
+
+Let them kill me \\
+Let them kill me \\
+Let them kill me \\
+Let them kill me
+
+Water came down through the cracks in the ceiling \\
+But this time the water had a different feeling \\
+It's the sort of feeling that is hard to explain \\
+So, let me put it to you in a different way now
+
+Let them kill me \\
+Let them kill me \\
+Let them kill me \\
+Let them kill me
+
+You're the salesman. I'm the buyer \\
+You're the tractor. I am the tire \\
+I'm the glass. You're the water that fills me \\
+I hear them coming now \\
+Let them kill me
+
+Let them kill me \\
+Let them kill me \\
+Let them kill me now \\
+Let them kill me. Yeah!
+
+Let them kill me \\
+Let them kill me \\
+Let them kill me \\
+Let them kill me
 
 
 [^water1]:
@@ -241,7 +549,34 @@ Label: Shrimper
 
 ## Going to Spain [^spain1] [^spain2] ## {#spain}
 
-(lyrics)
+It's heaven up here \\
+But it's heaven down there \\
+And you're gonna leave me \\
+Now I don't care
+
+It's heaven outside \\
+But it's heaven indoors \\
+Well go on and leave me \\
+I don't care any more 
+
+I hear the airplane coming \\
+I hear the airplane coming \\
+I hear the airplane coming now \\
+It can't touch me
+
+I see you going up the little stair \\
+Go on and board the plane \\
+I don't care I-
+
+I see you hold his hand \\
+I see you wave good-bye \\
+I don't know you anymore \\
+So I'm not going to cry now
+
+I see the airplane coming \\
+I feel the airplane coming \\
+I hear the airplane coming now \\
+It can't touch me
 
 
 [^spain1]:
@@ -255,7 +590,41 @@ Label: Shrimper
 
 ## Keep It on Your Mind [^keep1] [^keep2] ## {#keep}
 
-(lyrics)
+*"It's a quarter 'til 2 on the 23rd of February and this is a Hank Williams song."*
+
+Now if you stay out \\
+And start playing around \\
+Your baby's gonna burn your playhouse down \\
+You better keep it on your mind \\
+You better keep it on your mind \\
+You'll be a-moanin' and a-groanin' \\
+Lord, you better keep it on your mind
+
+Now wrong is wrong \\
+And right is right \\
+If you make a pig mad \\
+He's sure gonna bite \\
+You better keep it on your mind \\
+You better keep it on your mind \\
+I've had it proven to me \\
+Lord, you better keep it on your mind
+
+Every fuss got the same old end \\
+I don't believe the good lord \\
+Meant for a man to win \\
+You better keep it on your mind \\
+You better keep it on your mind \\
+You'll be a-groanin' and a-hoppin' \\
+Lord, you better keep it on your mind
+
+Now if she gets mad \\
+And tells you goodbye \\
+There's not a thing that you can do \\
+But sit at home and cry \\
+You better keep it on your mind \\
+You better keep it on your mind \\
+You better call her sweet mamma \\
+Lord, you better keep it on your mind
 
 
 [^keep1]:
@@ -277,3 +646,4 @@ Label: Shrimper
 
 
 ## Footnotes ## {#footnotes}
+
