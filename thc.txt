@@ -1,11 +1,13 @@
 ![Back of The Hound Chronicles](media/thc-back.jpg){: style="float: right; width:
 200px; margin: 0px 0px 10px 10px"} ![Cover of The Hound Chronicles](media/thc-cover.jpg){: style="float: right;
+width: 200px; margin: 0px 0px 10px 10px"} \\
+![Liner notes](media/thc-liner.jpg){: style="float: right;
 width: 200px; margin: 0px 0px 10px 10px"}
 
 # The Hound Chronicles #
 
 Title: The Hound Chronicles [^thcquote1] [^thcquote2] \\
-Released: 1992 [^rerelease]\\
+Released: 1992 [^rerelease] \\
 Label: Shrimper
 
 *[Jump to the table of contents](#contents){: .jump}*
@@ -17,13 +19,39 @@ Label: Shrimper
     (placeholder)
 
 [^rerelease]:
-    (note about how it was re-released as a 2CD with Garden in 2012)
+    The Hound Chronicles was re-released by Merge in 2012, [as a double CD][doublecd] with Hot Garden Stomp.
 
-[linkname]: https://www.example.com
+[doublecd]: https://www.mergerecords.com/the-hound-chronicles-hot-garden-stomp
 
 ### Liner notes ### {#liner}
 
-(liner notes here)
+<span style="text-decoration:underline">1546</span> -- Hounds in New England keep early American \\
+settlers up all night, refuse to stop howling even under \\
+pain of death.  <span style="text-decoration:underline">1600</span> -- Food riots in Lukthersaram, India, \\
+attributed to a man in a hound suit, described by witnesses \\
+as "tall" and "fat."  <span style="text-decoration:underline">1650</span> -- Hounds in Palestine. \\
+<span style="text-decoration:underline">1713</span> -- Or, "Andr&#233; the Hound."  <span style="text-decoration:underline">1714</span> -- Hounds in \\
+the French Alps melt millenia-old [^liner-millennia] glaciers by breathing \\
+on them, proclaim imagematic [^liner-imagematic] independence from all \\
+extant systems.  <span style="text-decoration:underline">1801</span> -- Surrey, England 1-page broadsheet \\
+decries "excess of hound machineries in these parts." \\
+<span style="text-decoration:underline">1826</span> -- World's Fair. Hounds unfair, but <span style="text-decoration:underline">beautiful</span>. \\
+<span style="text-decoration:underline">1840</span> -- Hounds in Sonora, Mexico, invent music, \\
+write bogus "History of Music" to preserve anonymity. \\
+<span style="text-decoration:underline">1846</span> -- Hounds.  <span style="text-decoration:underline">1847</span> -- Hounds.  <span style="text-decoration:underline">1848</span> -- Hounds.  <span style="text-decoration:underline">1902</span> -- \\
+Liberation of the Hound Sapphire from Chinese government. <span style="text-decoration:underline">1918</span> - [^liner-fiction]
+
+
+[^liner-millennia]:
+    'Millennia' is misspelled here.
+
+[^liner-imagematic]:
+    'Imagematic' does not appear to have been a word in 1992.
+
+[^liner-fiction]:
+    The liner notes depict fictional events involving hounds, though [dogs did exist][palestinehounds] in the area now known as Palestine in 1650, and dogs in general did exist in the period of 1846-1848.
+
+[palestinehounds]: https://en.wikipedia.org/wiki/Canaan_Dog
 
 ### Table of contents ### {#contents}
 
@@ -49,17 +77,17 @@ Label: Shrimper
 * [Footnotes](#footnotes)
 {: .none}
 
-## The Garden Song [^garden2] [^garden3] ## {#garden}
+## The Garden Song [^garden-stalker] ## {#garden}
 
-*"Where’s Spike when you need him?"* \\
-*"I’m warning you."* \\
-*"You’re warning me?"* \\
+*"Where's Spike when you need him?"* \\
+*"I'm warning you."* \\
+*"You're warning me?"* \\
 *"Hey, cut it out."* [^garden-976evil]
 
 I see the flowers in your garden are in bloom \\
 I see the flags are flying high \\
 I hear you've gone and rearranged things in your room \\
-I guess you're trying to cut off my air supply \\
+I guess you're trying to cut off my air supply
 
 I came toward your window, real slowly \\
 I knew deep down I was about to strike oil \\
@@ -78,18 +106,23 @@ Your flowers don't threaten my life
 
 
 [^garden-976evil]:
-    This sample from the film [976-EVIL][976evilwiki] appears to continue throughout the entire track; only the first part, before the song starts, is audible.
+    This sample from the film [976-EVIL][976evilwiki] appears to continue throughout the entire track; but only the first part, before the song starts, is audible. At approx. 57:30 in the movie there is a fight between two high school-aged boys:
+"Where's Spike when you need him?"
+"I'm warning you"
+"You're warning me?"
+"Cut it out"
 
-[^garden2]:
-    (placeholder)
+[^garden-stalker]:
+    This song is narrated from the perspective of a stalker, a subject which John has since distanced himself from: \\
+\\
+"Like a lot of college singer-songwriter guys, I thought it'd be really intense if you had songs where the rejected lover is, like, totally stalking somebody. You may find this with your guys with acoustic guitars in college, is that they write these songs and they think that you will like them better if the protagonist in their song is, like, stalking his beloved. Guys are confused; they grow out of this, right? But for the moment, they really think it's super intense to have a narrator who's going to immolate himself if he doesn't get the love he wants. I went through that myself with the songs; this is on The Hound Chronicles and I feel really silly playing it. It's called 'The Garden Song'." -- [2006-12-02 - Pitzer College - Claremont, CA][2006-12-02]
 
-[^garden3]:
-    (placeholder)
 
 [976evilwiki]: https://en.wikipedia.org/wiki/976-EVIL
+[2006-12-02]: http://themountaingoats.wikia.com/wiki/2006-12-02_-_Pitzer_College_-_Claremont,_CA
 
 
-## Going to Wisconsin [^wisconsin1] [^wisconsin2] [^wisconsin3] ## {#wisconsin}
+## Going to Wisconsin [^wisconsin-goingto] ## {#wisconsin}
 
 There was the sound of a lake boiling over \\
 On that day \\
@@ -98,7 +131,7 @@ But the thickening air got in my way
 
 So the hook's been baited now \\
 Yeah the cheese is on the water \\
-Yeah the water's been cleansed of all impurities \\
+Yeah the water's been cleansed of all impurities [^wisconsin-fishboil] \\
 But now it really doesn't matter \\
 Let's go, let's go
 
@@ -121,19 +154,17 @@ Yeah, Wisconsin bound \\
 Let's go
 
 
-[^wisconsin1]:
-    (placeholder)
+[^wisconsin-fishboil]:
+    (TODO: write [Fish Boil][fishboil] annotation)
 
-[^wisconsin2]:
-    (placeholder)
+[^wisconsin-goingto]:
+    Going to Wisconsin is part of the [Going to ... series][goingto].
 
-[^wisconsin3]:
-    (placeholder)
-
-[linkname]: https://www.example.com
+[goingto]: http://kylebarbour.org/tmg/series.html#goingto
+[fishboil]: https://en.m.wikipedia.org/wiki/Fish_boil
 
 
-## Spilling Toward Alpha [^spilling1] [^spilling2] [^spilling3] ## {#spilling}
+## Spilling Toward Alpha [^spilling-alpha] [^alpha-forgive] [^alpha-kill] ## {#spilling}
 
 I hear you moving in the hallway \\
 I hear you sharpening your claws \\
@@ -151,19 +182,23 @@ I notice when you leave the gas jets on sometimes \\
 But I don't mind
 
 
-[^spilling1]:
-    (placeholder)
+[^spilling-alpha]:
+    Spilling Toward Alpha is part of the [Alpha Couple series][alphacouple].
 
-[^spilling2]:
-    (placeholder)
-
-[^spilling3]:
-    (placeholder)
-
-[linkname]: https://www.example.com
+[^alpha-forgive]:
+    "This is another one of those little songs, uh, about two people who I love so much that I continue to cause them to harm one another, uh, and I imagine them in my mind cursing me, but they can't do it without my permission, 'cause they're my people, so. It's a very old song. I hope someday they'll forgive me, but I suspect that they won't." -- [2001-06-23 - Bottom of the Hill - San Francisco, CA][2001-06-23]
 
 
-## Alpha Negative [^negative1] ## {#negative}
+[^alpha-kill]:
+    "This song also has a message, but it's a sort of simpler message. And that is: if the person that you live with and love is trying to kill you, it's best to leave." -- [2002-03-07 - Independent Media Center - Urbana, IL][2002-03-07]
+
+
+[alphacouple]: http://kylebarbour.org/tmg/series.html#alpha
+[2001-06-23]: http://themountaingoats.wikia.com/wiki/2001-06-23_-_Bottom_of_the_Hill_-_San_Francisco,_CA
+[2002-03-07]: http://themountaingoats.wikia.com/wiki/2002-03-07_-_Independent_Media_Center_-_Urbana,_IL
+
+
+## Alpha Negative [^negative-alpha] [^death-heart] ## {#negative}
 
 The house was pretty and the yard was wide \\
 And I felt strong with you at my side \\
@@ -178,7 +213,7 @@ Do you remember?
 
 We had a bed of daisies thriving in the yard \\
 And I quit my job, so I could hold you all the time \\
-I tried to stop the thing metastasizing in us \\
+I tried to stop the thing metastasizing [^alpha-cancer] in us \\
 But in the warm, slow evening \\
 I could feel it rising in us
 
@@ -189,10 +224,19 @@ It was cool and smooth and sweet and cool \\
 And smooth and sweet and cool and smooth
 
 
-[^negative1]:
-    (placeholder)
+[^negative-alpha]:
+    Alpha Negative is part of the [Alpha Couple series][alphacouple].
 
-[linkname]: https://www.example.com
+[^alpha-cancer]:
+    metastasizing means to spread or change injuriously, especially used in pathology to refer to cancer spreading from one body part to another.
+
+[^death-heart]:
+    "Well, there was this one guy who always wanted to hear that one. He's been showing up for twenty years. But everybody else was like, 'Wow, that was weird and not like the other songs. It seemed like it was written by a very different person who, you know, had a little more death in his heart than the other one we've come to know, right. That's true.'" -- [2014-04-20 - Old Town School of Folk Music - Chicago, IL][2014-04-20]
+
+
+
+
+[2014-04-20]: http://themountaingoats.wikia.com/wiki/2014-04-20_-_Old_Town_School_of_Folk_Music_-_Chicago,_IL
 
 
 ## Torch Song [^torch1] [^torch2] ## {#torch}
@@ -227,7 +271,7 @@ Just like a torch
 [linkname]: https://www.example.com
 
 
-## &#1513;&#1511;&#1496; (Be Quiet) [^quiet1] [^quiet2] [^quiet3] ## {#quiet}
+## &#1513;&#1511;&#1496; (Be Quiet) [^quiet-hebrew] [^quiet2] [^quiet3] ## {#quiet}
 
 You've been away for quite some time \\
 And now the rules are different, \\
@@ -252,8 +296,8 @@ Everything's mine
 I can't be quiet
 
 
-[^quiet1]:
-    (placeholder)
+[^quiet-hebrew]:
+    The [Hebrew word *&#1513;&#1511;&#1496;*][shakat] means 'silence' (noun), or 'be at peace' (verb).
 
 [^quiet2]:
     (placeholder)
@@ -261,12 +305,12 @@ I can't be quiet
 [^quiet3]:
     (placeholder)
 
-[linkname]: https://www.example.com
+[shakat]: https://en.wiktionary.org/wiki/%D7%A9%D7%A7%D7%98
 
 
-## The Cow Song [^cow1] ## {#cow}
+## The Cow Song ## {#cow}
 
-Bang, pow! Look at me now \\
+Bang pow, look at me now \\
 Don't let the cows stray off too far \\
 Come down, take a good look around \\
 See how the cows start to shine like light bulbs
@@ -279,7 +323,7 @@ I love the cows
 Rain comes, strikes you dumb \\
 Re-seed the meadow so the cows don't starve \\
 Mud puddle's a fine place to cuddle \\
-You're a mosquito or a mosquito's baby
+If you're a mosquito or a mosquito's baby
 
 I love the cows \\
 I love the cows \\
@@ -287,7 +331,7 @@ I love the cows \\
 I love the cows
 
 They're smiling in your face \\
-All the time they wanna take your place \\
+All the time they wanna take your place [^cow-backstabbers] \\
 Yeah you know who I mean \\
 Talkin' about those cow-machines 
 
@@ -297,26 +341,21 @@ I love the cows \\
 I love the cows
 
 
-[^cow1]:
-    (placeholder)
+[^cow-backstabbers]:
+    These two lines are from The O'Jays' song, [*Back Stabbers*][backstabbers].
 
-[linkname]: https://www.example.com
-
-
-## -- [^untitled1] [^untitled2] ## {#untitled}
-
-*(none)*
-
-[^untitled1]:
-    (placeholder)
-
-[^untitled2]:
-    (placeholder)
-
-[linkname]: https://www.example.com
+[backstabbers]: https://en.wikipedia.org/wiki/Back_Stabbers_(song)
 
 
-## Going to Chino [^chino1] [^chino2] ## {#chino}
+## -- ## {#untitled}
+
+*(none)* [^untitled-nolyrics]
+
+[^untitled-nolyrics]:
+    This track consists of 17 seconds of modulated tuning sounds and has no lyrics.
+
+
+## Going to Chino [^chino-goingto] [^chino2] ## {#chino}
 
 I'd like to say hello \\
 To all our friends from Chino \\
@@ -351,8 +390,8 @@ To the people from Chino \\
 Hello
 
 
-[^chino1]:
-    (placeholder)
+[^chino-goingto]:
+    Going to Chino is part of the [Going to ... series][goingto].
 
 [^chino2]:
     (placeholder)
@@ -360,7 +399,7 @@ Hello
 [linkname]: https://www.example.com
 
 
-## Standard Bitter Love Song #4 [^bitter1] ## {#bitter}
+## Standard Bitter Love Song #4 [^bitter-series] ## {#bitter}
 
 Well I see you've left me a photograph \\
 Of a leopard tearing an antelope in half \\
@@ -388,13 +427,13 @@ With our love \\
 What have you done
 
 
-[^bitter1]:
-    (placeholder)
+[^bitter-series]:
+    Standard Bitter Love Song #4 is part of the [Standard Bitter Love Song series][standardbitter].
 
-[linkname]: https://www.example.com
+[standardbitter]: http://kylebarbour.org/tmg/series.html#sbls
 
 
-## Going to Mexico [^mexico1] ## {#mexico}
+## Going to Mexico [^mexico-goingto] ## {#mexico}
 
 I saw you at your window \\
 I saw you in the sun \\
@@ -421,21 +460,23 @@ It was almost too much \\
 Burned like a bonfire in the morning
 
 
-[^mexico1]:
-    (placeholder)
+[^mexico-goingto]:
+    Going to Mexico is part of the [Going to ... series][goingto].
+
+Bryce- just so i don't forget, there was a comment about this being a true story in one of the interviews from Christopher's flikr I'll find next time 
 
 [linkname]: https://www.example.com
 
-## Lab Rat Blues [^rat1] [^rat2] ## {#rat}
+## Lab Rat Blues ## {#rat}
 
 I saw you. I saw your hair \\
-I could spend the rest of my life in there \\
+I could spend the rest of my life in there
 
 I saw you and I sank into your eyes \\
 I'm not going to apologize
 
 Because you with your own hands \\
-Made the whole world \\
+Made the whole world [^rat-psalms] \\
 You can't fool me \\
 I'm onto you now
 
@@ -445,8 +486,8 @@ You can't fool me \\
 I'm onto you now
 
 Yeah, I saw you, but you saw me first \\
-Living water to quench my thirst \\
-And you tell me quiet down \\
+Living water to quench my thirst [^rat-water] \\
+And you tell me quiet down [^rat-luke] \\
 But I have no doubt \\
 I know what you're all about
 
@@ -461,16 +502,19 @@ You can't fool me any more \\
 I'm onto you now
 
 
-[^rat1]:
-    (placeholder)
+[^rat-psalms]:
+    Referencing God creating everything with his hands. Multiple Bible verses use similar language, such as Isaiah 45:2, "I made the earth, I created the people who live on it. My hands stretched out the heavens, I gave orders to all the heavenly lights"; Psalms 8:3 observes that the heavens were "made by God's fingers" and Psalms 19:1 "The heavens declare the glory of God; the sky displays his handiwork."
 
-[^rat2]:
-    (placeholder)
+[^rat-water]:
+    Water is a rich symbol in the Bible. In Jeremiah 2:13 and 17:13 God calls himself "The living water." Jesus speaks about it in John 4:10, "If you knew the gift of God and who it is that asks you for a drink, you would have asked him and he would have given you living water."
+
+[^rat-luke]:
+    Possibly a reference to Luke 4:35, in which Jesus silences a possessed man who is afraid of him and rebuked the demon inside him. "Be quiet!" Jesus said sternly. "Come out of him!" Then the demon threw the man down before them all and came out without injuring him. However, God often instructs silence, quiet, peace etc and there are many hundreds of verses which encourage this practice.
 
 [linkname]: https://www.example.com
 
 
-## Going to Kansas [^kansas1] ## {#kansas}
+## Going to Kansas [^kansas-goingto] ## {#kansas}
 
 You were all were dressed in green \\
 Clouds bounced against the edges of the sky \\
@@ -493,8 +537,8 @@ You know, you know what I mean \\
 Yeah I remember who you are
 
 
-[^kansas1]:
-    (placeholder)
+[^kansas-goingto]:
+    Going to Kansas is part of the [Going to ... series][goingto].
 
 [linkname]: https://www.example.com
 
@@ -547,7 +591,7 @@ Let them kill me
 [linkname]: https://www.example.com
 
 
-## Going to Spain [^spain1] [^spain2] ## {#spain}
+## Going to Spain [^spain-goingto] [^spain-depressing] ## {#spain}
 
 It's heaven up here \\
 But it's heaven down there \\
@@ -579,16 +623,17 @@ I hear the airplane coming now \\
 It can't touch me
 
 
-[^spain1]:
-    (placeholder)
+[^spain-goingto]:
+    Going to Spain is part of the [Going to ... series][goingto].
 
-[^spain2]:
-    (placeholder)
-
-[linkname]: https://www.example.com
+[^spain-depressing]:
+    "It's one of the most depressing songs I ever wrote, for me, anyway." -- [1996-03-16 - Lintfabriek - Kontich, Belgium][1996-03-16]
 
 
-## Keep It on Your Mind [^keep1] [^keep2] ## {#keep}
+[1996-03-16]: http://themountaingoats.wikia.com/wiki/1996-03-16_-_Lintfabriek_-_Kontich,_Belgium
+
+
+## Keep It on Your Mind [^keep-cover] [^keep2] ## {#keep}
 
 *"It's a quarter 'til 2 on the 23rd of February and this is a Hank Williams song."*
 
@@ -627,8 +672,8 @@ You better call her sweet mamma \\
 Lord, you better keep it on your mind
 
 
-[^keep1]:
-    (placeholder)
+[^keep-cover]:
+    This is a cover of Hank Williams' *You Better Keep It on Your Mind*. It is written simply as *Keep it On Your Mind* on the album cover.
 
 [^keep2]:
     (placeholder)
