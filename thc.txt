@@ -1,8 +1,13 @@
 ![Back of The Hound Chronicles](media/thc-back.jpg){: style="float: right; width:
 200px; margin: 0px 0px 10px 10px"} ![Cover of The Hound Chronicles](media/thc-cover.jpg){: style="float: right;
-width: 200px; margin: 0px 0px 10px 10px"} \\
-![Liner notes](media/thc-liner.jpg){: style="float: right;
 width: 200px; margin: 0px 0px 10px 10px"}
+
+![Liner notes](media/thc-liner.jpg){: style="float: right;
+width: 600px; margin: 0px 0px 10px 10px"}
+
+{::comment}
+Hey Kyle I'm not sure how to align the pictures properly, or what 'properly' would be, so sorry that this looks bad
+{:/comment}
 
 # The Hound Chronicles #
 
@@ -24,6 +29,7 @@ Label: Shrimper
 [doublecd]: https://www.mergerecords.com/the-hound-chronicles-hot-garden-stomp
 
 ### Liner notes ### {#liner}
+
 
 <span style="text-decoration:underline">1546</span> -- Hounds in New England keep early American \\
 settlers up all night, refuse to stop howling even under \\
