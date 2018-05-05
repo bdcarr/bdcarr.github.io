@@ -1,0 +1,40 @@
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="style/kaiteFonts.css">
+		
+		<script>
+			var fonts = ["serif", "dyslexic-regular", "dyslexic-bold", "dyslexic-italic", "dyslexic-bolditalic"];
+			
+			var fontCounter = 1;
+			
+			var cycleFont = function() {
+				var paras = document.getElementsByTagName("p");
+				var font;
+				if (fontCounter == 4) {
+					font = fontCounter;
+					fontCounter = 0;
+				} else {
+					font = fontCounter++;
+				}
+				
+				for (i = 0; i < paras.length; i++) {
+					console.log("setting " + paras[i].id + " to font '" + fonts[font])
+					paras[i].style.fontFamily = fonts[font];
+				}
+			}
+		</script>
+	</head>
+	<body>
+		<button type="button" onclick="cycleFont()">Cycle Fonts!</button>
+		<br>
+		<p id="testpara">
+			hello this is a test
+			<br>
+			the quick brown fox jumped over the lazy dog
+			<br>
+			Lorem ipsum dolor sit amet.
+			<br>
+			Kaite is the best!
+		</p>
+	</body>
+</html>
